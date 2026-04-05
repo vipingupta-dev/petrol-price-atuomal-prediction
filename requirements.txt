@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+lazypredict
+shap
+yfinance
+matplotlib
+seaborn
+gradio
+joblib
