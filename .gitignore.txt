@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Data files (too large for GitHub)
+data/raw/
+data/processed/
+*.csv
+
+# Saved models (too large for GitHub)
+checkpoints/
+
+# Output charts
+outputs/
+
+# Reports
+reports/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
